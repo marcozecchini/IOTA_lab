@@ -13,7 +13,7 @@ What we are going to see:
 
 3. MQTT Listener, https://wiki.iota.org/iota.rs/libraries/nodejs/examples#listening-to-mqtt
 
-4. Masking Authenticated Messagging
+4. [Masking Authenticated Messagging](https://blog.iota.org/introducing-masked-authenticated-messaging-e55c1822d50e/)
 
 5. TTN Integration
     * Open the console of [The Things Network](https://eu1.cloud.thethings.network/console/)
